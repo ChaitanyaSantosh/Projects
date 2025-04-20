@@ -1,0 +1,25 @@
+# 🩺 IoT-Based Health Care Monitoring System with Live Streaming
+
+This IoT project continuously monitors a patient's vital signs and streams them to a cloud platform along with a live video feed. Ideal for remote health diagnostics and emergency alerting.
+
+## 🔍 Overview
+Combines IoT sensors, microcontrollers, and cloud integration to enable real-time patient monitoring and alert generation.
+
+## 💡 Features
+- Tracks heart rate, body temperature, and oxygen levels
+- Sends real-time data to a cloud dashboard
+- Integrates live video streaming for remote monitoring
+
+## 🧰 Tools & Technologies
+- **Python**
+- **Arduino/Raspberry Pi**
+- Sensors (Heart Rate, Temperature, SpO2)
+- Cloud: Firebase / ThingSpeak
+- MJPEG video streaming
+
+## 📘 What I Learned
+- IoT sensor integration and Python data handling
+- Streaming protocols for real-time video
+- Healthcare security and data privacy
+
+> Inspired by real-world health IoT solutions for elderly care and remote patient monitoring.

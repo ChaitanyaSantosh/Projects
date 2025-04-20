@@ -1,0 +1,29 @@
+# 🛡️ Keylogger Development (Python)
+
+This project is a **basic educational keylogger** built using Python. It demonstrates system-level scripting and ethical hacking principles in a secure environment for learning purposes.
+
+## 🔍 Overview
+This keylogger captures user keystrokes and logs them securely using encryption. It operates in stealth mode, simulating how keyloggers work in cybersecurity testing.
+
+## ⚙️ Features
+- Captures all keyboard input.
+- Encrypts logs before saving.
+- Runs silently in the background.
+
+## 🧰 Tools & Technologies
+- **Python**
+- `pynput` for listening to keystrokes
+- `cryptography.fernet` for encryption
+
+## 🚀 How to Run
+```bash
+pip install pynput cryptography
+python keylogger.py
+```
+
+## 📘 What I Learned
+- Keystroke capturing and monitoring
+- Data encryption with Python libraries
+- Ethical hacking and security tooling basics
+
+> ⚠️ For educational purposes only. Unauthorized usage is illegal.
